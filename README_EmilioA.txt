@@ -1,1 +1,1 @@
-Hola!, archivo de prueba subido por Emilio A.
+Hola!, archivo de prueba
